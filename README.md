@@ -18,4 +18,4 @@ This Power BI dashboard analyzes past sales data and predicts future revenue usi
 - Forecasting Chart:Predict future revenue.  
 
 ## 📸 Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Rasagna0308/Sales-Forecasting-Dashboard/blob/main/Sales%20Forecasting%20Dashboard%20Snapshot.png)
